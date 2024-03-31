@@ -11,4 +11,8 @@ MERN (MongoDB, Express, React.js, Node.js)
    - User related functions: get current user's profile, get followers' profile, follow, unfollow
    - Post related functions: post a new image, retrieve a post, retrieve all posts of current user, retrieve all posts from following users
 ### Frontend Deployment
+1. Components Design:
+   - Login, Register
+   - Header, Body
+   - Post, New_post, User profile, User Searching
 ## Reflection
